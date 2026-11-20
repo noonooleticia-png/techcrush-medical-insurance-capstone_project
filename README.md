@@ -18,7 +18,7 @@ Each member owns an isolated file or section to prevent merge conflicts and ensu
 
 | Pair | Shared Task | Partner A (Name & GitHub) | Partner B (Name & GitHub) | Assigned Files / Deliverables |
 | :--- | :--- | :--- | :--- | :--- |
-| **Pair 1** | **Data Cleaning & Organizing** | Leticia (`@username`) | Lonimi (`@username`) | `notebooks/01_data_cleaning.ipynb`, `notebooks/02_data_grouping.ipynb` |
+| **Pair 1** | **Data Cleaning & Organizing** | Leticia (`@noonooleticia-png`) | Lonimi (`@username`) | `notebooks/01_data_cleaning.ipynb`, `notebooks/02_data_grouping.ipynb` |
 | **Pair 2** | **Charts & Visual Insights** | umarimran86 (`@username`) | ONYITECH (`@username`) and Joyousjoy (`@username`)  | `notebooks/03_charts_smoking.ipynb`, `notebooks/04_charts_demographics.ipynb`, `figures/` |
 | **Pair 3** | **Prediction Models & Comparison** | Eseoghene (`@thjosephisrael`) | Simpllyprecious (`@username`) | `notebooks/05_model_linear.ipynb`, `notebooks/06_model_forest.ipynb` |
 | **Pair 4** | **Plain-English Report (Medium)** | Abisola Salami(`@phenomenabisola`) | Tiana’s Lure (`@username`) | Published Medium Report (800–1,200 words + ≥3 charts) |
